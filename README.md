@@ -10,9 +10,9 @@ https://github.com/coding-to-music/explodii-mern-maps-travel
 
 https://explodii-mern-maps-travel.herokuapp.com
 
-by MrsKamran https://github.com/MrsKamran
+by lias Allek https://github.com/Allek97/explodii
 
-https://github.com/MrsKamran/habit-tracker
+https://github.com/Allek97/explodii
 
 <p align="center">
   <a href="https://explodii.netlify.app/" rel="noopener" target="_blank">
