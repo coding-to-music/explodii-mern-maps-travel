@@ -98,6 +98,30 @@ heroku create explodii-mern-maps-travel
 ```java
 heroku config:set
 
+CLIENT_URL=""
+
+JWT_COOKIE_EXPIRES_IN=""
+
+STRIPE_WEBHOOK_SECRET=""
+EMAIL_FROM=""
+
+SENDGRID_USERNAME=""
+SENDGRID_PASSWORD=""
+
+EMAIL_HOST=""
+EMAIL_PORT=""
+EMAIL_USERNAME=""
+EMAIL_PASSWORD=""
+
+AWS_BUCKET_NAME=""
+AWS_BUCKET_REGION=""
+AWS_ACCESS_KEY_ID=""
+AWS_ACCESS_SECRET_ID=""
+
+REACT_APP_SC_ATTR=""
+REACT_APP_URL=""
+REACT_APP_GOOGLE_MAPS_API_KEY=""
+REACT_APP_STRIPE_SECRET_KEY=""
 
 heroku config:set MONGODB_URI="mongodb+srv://<userid>:<password>@cluster0.zadqe.mongodb.net/explodii-mern-maps-travel?retryWrites=true&w=majority"
 heroku config:set PASSWORD="something-secret"
